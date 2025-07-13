@@ -1,5 +1,5 @@
 
-"""# CocalAPI
+
 
 CocalAPI é uma API REST desenvolvida com ASP.NET Core 8.0, voltada para fornecer dados de produção de biocombustíveis e energia limpa.
 
@@ -45,4 +45,3 @@ Os dados retornados são simulados (mockados) e servem como base para testes e d
 ## 📄 Licença
 
 Este projeto está licenciado sob os termos da licença MIT.
-"""
