@@ -1,0 +1,21 @@
+@CocalApi_HostAddress = http://localhost:5086
+
+GET {{CocalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+### Etanol
+GET {{CocalApi_HostAddress}}/api/producao/etanol
+Accept: application/json
+
+### Energia
+GET {{CocalApi_HostAddress}}/api/producao/energia
+Accept: application/json
+
+### Biometano
+GET {{CocalApi_HostAddress}}/api/producao/biometano
+Accept: application/json
+
+### CO2 Verde
+GET {{CocalApi_HostAddress}}/api/producao/co2-verde
+Accept: application/json
+

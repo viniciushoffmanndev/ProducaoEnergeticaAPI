@@ -1,0 +1,34 @@
+
+# Build e arquivos temporários
+bin/
+obj/
+
+# Configurações de IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de testes e relatórios
+TestResults/
+*.coverage
+*.coveragexml
+*.log
+
+# Arquivos de segurança
+secrets.json
+*.pfx
+*.key
+
+# Outros arquivos comuns
+*.db
+*.sqlite
+*.bak
+*.tmp
+*.cache
+*.nupkg
+.DS_Store
+Thumbs.db
