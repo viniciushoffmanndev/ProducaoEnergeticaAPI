@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CocalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f38487f35d3525c45f214e66c69e1644934e82c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CocalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CocalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
